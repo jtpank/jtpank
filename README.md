@@ -13,7 +13,7 @@
 -->
 
 
-Hi, I'm Justin Pank, a self-taught, passionate software developer. 
+Hi, I'm Justin Pank, an energetic, self taught software developer. I enjoy creating elegant solutions to various problems. My passion lies in applying ideas and bringing designs to life. I take care with my code quality and structure with my builds.
 
 Languages and Tools:
 
